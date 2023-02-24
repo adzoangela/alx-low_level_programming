@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -s $CFILE -o $ASFILE
+gcc -S $CFILE -o $ASFILE
