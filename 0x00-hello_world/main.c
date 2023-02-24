@@ -6,5 +6,6 @@
  */
 int main(void)
 {
-	return (0);
+	printf("Holberton School");
+		return (0);
 }
