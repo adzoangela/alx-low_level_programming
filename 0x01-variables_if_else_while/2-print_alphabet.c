@@ -1,5 +1,8 @@
 #include <stdio.h>
-
+/**
+ * main- Prints prints the alphabet in lowercase, followed by a new line
+ * Return: Always (Success)
+*/
 int main(void)
 {
 char c;
