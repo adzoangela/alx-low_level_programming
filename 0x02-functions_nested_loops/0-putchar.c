@@ -1,8 +1,11 @@
 #include "main.h"
+
 /**
- * main - entry point
- * Description: prints _putchar
- * Return: always 0
+ * main - Entry point
+ *
+ * Description: Prints "_putchar"
+ *
+ * Return: Always 0
  */
 int main(void)
 {
@@ -15,5 +18,6 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
+
 	return (0);
 }
