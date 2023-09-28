@@ -25,7 +25,7 @@ void print_binary(unsigned long int n)
 		}
 		else if (started)
 		{
-			_putchar('0');
+			_putchar('o');
 		}
 		mask >>= 1;
 	}
