@@ -16,7 +16,7 @@ int main(void)
 			        printf("\n");
 				    print_binary(1024);
 				        printf("\n");
-					    print_binary((1 << 10) + 1);
+					    print_binary((1UL << 10) + 1);
 					        printf("\n");
 						    return (0);
 }
